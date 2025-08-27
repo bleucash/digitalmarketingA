@@ -1,0 +1,82 @@
+overview: >
+  Tampa/St. Petersburg-based digital marketing agency. 
+  Specializing in travel & activity and home service industries. 
+  Services: Websites, Social Media, SEO, Paid Ads. 
+  Integrated with GoHighLevel + CRMs.
+
+services:
+  website_development:
+    basic:
+      price: "$1500"
+      deliverables: "5-page site, mobile-responsive, basic SEO (meta tags, sitemap)"
+      timeline: "2–3 weeks"
+      ideal_for: "Small businesses needing modern presence (e.g., plumbers, tour operators)"
+    custom:
+      price: "From $3000"
+      deliverables: "Custom design, e-commerce, advanced SEO (keyword research, on-page)"
+      timeline: "4–6 weeks"
+      ideal_for: "Businesses with unique branding or functionality needs"
+  
+  social_media:
+    starter:
+      price: "$500/month"
+      deliverables: "3 posts/week on 2 platforms (IG, FB), monthly analytics"
+      ideal_for: "Businesses starting online presence"
+    pro:
+      price: "$1200/month"
+      deliverables: "5 posts/week on 3 platforms, ad management ($200 ad spend), content calendar"
+      ideal_for: "Businesses scaling engagement"
+  
+  seo:
+    local:
+      price: "$800/month"
+      deliverables: "Google Business optimization, citations, local keywords"
+      results: "2–4 months"
+    national:
+      price: "From $1500/month"
+      deliverables: "Keyword research, on-page SEO, link building"
+      results: "6–12 months"
+  
+  paid_ads:
+    google_ads:
+      price: "From $600/month + ad spend"
+      deliverables: "Campaign setup, keyword targeting, ad copy"
+    social_ads:
+      price: "From $500/month + ad spend"
+      deliverables: "Ad creation for IG, FB, TikTok, audience targeting"
+
+onboarding_process:
+  - Discovery Call: "30-min discussion of goals, audience, presence"
+  - Proposal: "Delivered in 48 hours via GoHighLevel"
+  - Contract & Payment: "Digital contract + online payment"
+  - Kickoff: "Client portal access (content calendar + progress)"
+  - Execution: "Weekly updates with analytics"
+
+faqs:
+  - q: "What types of businesses do you serve?"
+    a: "Travel & activity (tours, events) + home services (HVAC, plumbing, cleaning)."
+  - q: "How long to see SEO results?"
+    a: "Local SEO: 2–4 months. National SEO: 6–12 months."
+  - q: "Do you integrate with existing tools?"
+    a: "Yes – GoHighLevel, HubSpot, CRMs."
+  - q: "What’s included in content calendar?"
+    a: "30-day schedule with captions, hashtags, visuals."
+
+common_inquiries:
+  website_traffic: >
+    Free audit + recommend Local SEO or Google Ads. 
+    Example: Tampa plumber → optimize Google Business + target 'emergency plumber Tampa'.
+  social_media_content: >
+    Audience analysis + platform-specific content (e.g., Reels for travel, FB tips for services).
+  email_marketing: >
+    Yes. Campaigns: welcome sequences, newsletters, drip automations.
+
+contact:
+  email: info@manolomrktng.com
+  phone: "1-813-705-9918"
+  hours: "Mon-Fri 9–6:30 | Sat 11–2:30"
+  location: Tampa, FL
+
+promotion: >
+  First 5 clients get 3 custom social media ads for $97. 
+  Trigger: comment "ADS" on Instagram.
